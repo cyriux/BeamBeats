@@ -1,6 +1,15 @@
 # BeamBeats
 Source code for the BeamBeats Arduino project
 
+# Mechanics
+
+## KINETIK Systemprofil 20x20 Nut 5 - Alu profil Strebenprofil Aluminiumprofil 
+
+- K20 Systemprofile 4x (500mm, 200mm, 100mm)
+- 10x Nutenstein 5 St Nut 5 - Typ I - mit Steg, Federkugel, Stahl verzinkt
+- Winkel 20x20
+- 100x Linsenschrauben M5 ISO 7380 - 10.9, Stahl galv. verzinkt 
+
 # Schematics
 
 ## Focusable 12V 532nm 30mW TTL Green Laser Module/Solid Industrial Design w/ fan
